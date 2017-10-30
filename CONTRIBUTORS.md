@@ -1,3 +1,7 @@
+#### Name: [Akila Kariyawasam](https://github.com/Akilakariyawasam)
+ - Place: Colombo, Srilanka
+ - Bio: learning software enginn=eering
+ - GitHub: [Akilakariyawasam](https://github.com/Akilakariyawasam)
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
